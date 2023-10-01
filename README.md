@@ -6,8 +6,6 @@ YSC 2023 Papers: A complete collection of research papers, code and data from th
 
 [![logo image](./img/logo.jpg)](https://ysc.actcognitive.org/)
 
-<style> table { width: 100%; } </style>
-
 ## Papers
 
 <details open>
