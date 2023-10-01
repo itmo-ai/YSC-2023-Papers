@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="22">
+            <item index="0" class="java.lang.String" itemvalue="scikit_learn" />
+            <item index="1" class="java.lang.String" itemvalue="typing" />
+            <item index="2" class="java.lang.String" itemvalue="pytest" />
+            <item index="3" class="java.lang.String" itemvalue="dataclasses" />
+            <item index="4" class="java.lang.String" itemvalue="h2o" />
+            <item index="5" class="java.lang.String" itemvalue="pandas" />
+            <item index="6" class="java.lang.String" itemvalue="networkx" />
+            <item index="7" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="8" class="java.lang.String" itemvalue="numpy" />
+            <item index="9" class="java.lang.String" itemvalue="Pillow" />
+            <item index="10" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="11" class="java.lang.String" itemvalue="ete3" />
+            <item index="12" class="java.lang.String" itemvalue="scikit-optimize" />
+            <item index="13" class="java.lang.String" itemvalue="tpot" />
+            <item index="14" class="java.lang.String" itemvalue="pmlb" />
+            <item index="15" class="java.lang.String" itemvalue="autokeras" />
+            <item index="16" class="java.lang.String" itemvalue="mlbox" />
+            <item index="17" class="java.lang.String" itemvalue="seaborn" />
+            <item index="18" class="java.lang.String" itemvalue="hyperopt" />
+            <item index="19" class="java.lang.String" itemvalue="joblib" />
+            <item index="20" class="java.lang.String" itemvalue="testfixtures" />
+            <item index="21" class="java.lang.String" itemvalue="torch" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
