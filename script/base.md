@@ -5,3 +5,15 @@
 YSC 2023 Papers: A complete collection of research papers, code and data from the [International Young Scientists Conference](https://ysc.actcognitive.org/) for young researchers and professionals in computational science, Artificial Intelligence, Big Data and Machine Learning.
 
 [![logo image](./img/logo.jpg)](https://ysc.actcognitive.org/)
+
+<style>
+table th:first-of-type {
+    width: 5%;
+}
+table th:nth-of-type(2) {
+    width: 90%;
+}
+table th:nth-of-type(3) {
+    width: 5%;
+}
+</style>
