@@ -34,7 +34,7 @@ YSC 2023 Papers: A complete collection of research papers, code and data from th
 |:----:|:---------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------:|
 |  14  | Framework architecture of a secure big data lake                                       | [![Code](https://img.shields.io/badge/Code-159957.svg)](https://github.com/IcyAltair/Pet-projects/tree/main/SDLAF_dashboards) |
 |  49  | Combination of parallelization and skewed tiling                                       |                                                                                                                               |
-|  50  | Automatic mapping of sequential programs to parallel computers with distributed memory &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|                                                                                                                               |
+|  50  | Automatic mapping of sequential programs to parallel computers with distributed memory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |                                                                                                                               |
 
 [Back to top](#papers)
 
