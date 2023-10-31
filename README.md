@@ -112,7 +112,7 @@ YSC 2023 Papers: A complete collection of research papers, code and data from th
 |  23  | Automated Generation of Ensemble Pipelines using Policy-Based Reinforcement Learning method      | [![Code](https://img.shields.io/badge/Code-159957.svg)](https://github.com/aimclub/FEDOT/tree/rlopt/fedot/rl)                                                                                                     | [![Presentation](https://img.shields.io/badge/Presentation-f5a018.svg)](./pt/YSC_2023_Automated_Generation_of_Ensemble_Pipelines_using_Policy.pdf)               |
 |  27  | Mutation Management for Evolutionary Small-Moves Approach in Pickup and Delivery Problem         | [![Code](https://img.shields.io/badge/Code-159957.svg)](https://github.com/xeniabaturina/pdp_python) |                |
 |  39  | Determination of Optimal Locations for ATM Network Service Points                                |                                                                                                      | [![Presentation](https://img.shields.io/badge/Presentation-f5a018.svg)](./pt/YSC_39.pdf)               |
-|  43  | Crisis Behaviour Strategy Recognition Using Transactional Data                                   |                                                                                                      |                |
+|  43  | Crisis Behaviour Strategy Recognition Using Transactional Data                                   |                                                                                                      | [![Presentation](https://img.shields.io/badge/Presentation-f5a018.svg)](./pt/YSC_2023_Crisis_Behaviour_Strategy_Recognition_Using_Transactional_Data.pdf) |
 
 [Back to top](#papers)
 
